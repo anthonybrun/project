@@ -1,0 +1,4 @@
+body { background: #ffeaea; font-family: Arial, sans-serif; }
+form { width: 30%; margin: 30px auto; padding: 20px; border: 1px solid #fcc; background: #fff; }
+label { display: block; margin-bottom: 10px; }
+button { background: #b23333; color: #fff; padding: 6px 16px; border: none; }
